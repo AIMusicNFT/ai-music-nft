@@ -1,13 +1,13 @@
 {
   "name": "ai-music-nft",
   "version": "1.0.0",
-  "description": "",
+  "description": "We are an AI Music NFT platform!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "AIMusicNFT",
   "license": "ISC",
   "devDependencies": {
     "hardhat": "^2.12.7",
