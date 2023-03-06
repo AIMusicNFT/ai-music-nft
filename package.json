@@ -25,6 +25,7 @@
     "@typechain/hardhat": "^6.1.5",
     "chai": "^4.3.7",
     "dotenv": "^16.0.3",
+    "ethers": "^6.0.8",
     "hardhat-gas-reporter": "^1.0.9",
     "solidity-coverage": "^0.8.2",
     "typechain": "^8.1.1"
